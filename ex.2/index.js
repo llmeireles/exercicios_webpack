@@ -1,0 +1,2 @@
+// Padrão CommonJS
+require('./duvidaCruel')
